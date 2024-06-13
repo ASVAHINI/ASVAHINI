@@ -2,13 +2,13 @@
 
 ###  HI ,I'm ASVAHINI  
 <div align="center">
-<hr>
+
 </div>  
   
 
 ### <div align="center">I'm Asvahini,  full-stack developer 👨‍💻 🚀</div>  
   
-
+<hr>
 - I'm currently pursing MCA   
   
 
