@@ -2,7 +2,7 @@
 
 ###  HI ,I'm ASVAHINI  
 <div align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Flinkedin-banners%2Ftemplates%2F&psig=AOvVaw1nc5roIIcjKPuc5OEb8oUD&ust=1718384653569000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiFwPGH2YYDFQAAAAAdAAAAABAK" align="center" style="width: 100%" />
+<img src="https://www.canva.com/templates/EAFSUH0EweU-black-elegant-personal-linkedin-banner/" style="width: 100%" />
 </div>  
   
 
