@@ -2,7 +2,7 @@
 
 ###  HI ,I'm ASVAHINI  
 <div align="center">
-<img src="https://www.google.com/imgres?q=motive%20lines%20header%20horizontal&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fuserupload%2F10167164%2Ffile%2Foriginal-799635ec2b8277c82794753736800361.png%3Fresize%3D752x&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F22597060-Landing-page-header-design-based-on-the-Gen-z-star&docid=aEuqGlIWO_mqvM&tbnid=g72r9IUi-bNV2M&vet=12ahUKEwjh06-3h9mGAxUJumMGHQlZCW0QM3oECDYQAA..i&w=752&h=535&hcb=2&itg=1&ved=2ahUKEwjh06-3h9mGAxUJumMGHQlZCW0QM3oECDYQAA" align="center" style="width: 100%" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.canva.com%2Flinkedin-banners%2Ftemplates%2F&psig=AOvVaw1nc5roIIcjKPuc5OEb8oUD&ust=1718384653569000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiFwPGH2YYDFQAAAAAdAAAAABAK" align="center" style="width: 100%" />
 </div>  
   
 
