@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">I'm Asvahini,  full-stack developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Asvahini,  Data engineer/Big data 👨‍💻 🚀</div>  
   
 <hr>
 - I'm currently pursing MCA   
