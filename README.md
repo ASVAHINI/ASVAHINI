@@ -12,10 +12,7 @@
 - I'm currently pursing MCA   
   
 
-- 🌱 I’m currently learning React and Angular  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+"Hi, I'm ASVAHINI S, an enthusiastic Data Engineer with a passion for creating efficient data pipelines and unlocking the potential of data. I enjoy exploring innovative technologies, optimizing workflows, and developing solutions that drive meaningful insights. With a focus on continuous growth, I embrace challenges and strive to deliver impactful results in every project I undertake."
   
 
 <br/>  
