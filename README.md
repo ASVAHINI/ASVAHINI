@@ -8,7 +8,7 @@ I am passionate about building scalable data solutions, exploring cloud technolo
 
 ### 🔍 **What I Do**
 - 📊 Data Analysis & Engineering using Python, SQL, and Apache Spark.
-- ☁️ Cloud Computing with AWS and Azure.
+- ☁️ Cloud Computing with Azure.
 - 🛠️ Creating ETL pipelines and optimizing data workflows.
 - 🤖 Experimenting with Machine Learning models for real-world use cases.
 - 📜 Writing clean, efficient, and maintainable code.
@@ -35,4 +35,6 @@ I am passionate about building scalable data solutions, exploring cloud technolo
 ### 📫 **Let's Connect!**
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
 - [Portfolio](https://your-portfolio.com)
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:asvahinis@gmail.com)
+
+
