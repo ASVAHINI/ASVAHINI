@@ -7,7 +7,7 @@ I am passionate about building scalable data solutions, exploring cloud technolo
 ---
 
 ### 🔍 **What I Do**
-- 📊 Data Analysis & Engineering using Python, SQL, and Apache Spark.
+- 📊 Data Engineering & Analysis  using Python, SQL, and Apache Spark.
 - ☁️ Cloud Computing with Azure.
 - 🛠️ Creating ETL pipelines and optimizing data workflows.
 - 🤖 Experimenting with Machine Learning models for real-world use cases.
@@ -15,10 +15,30 @@ I am passionate about building scalable data solutions, exploring cloud technolo
 
 ---
 
-### 🌟 **Featured Projects**
-- **[IPL Match Prediction](https://github.com/your-repo)**: Predicting IPL match outcomes using advanced machine learning techniques.
-- **[Recipe Recommendation Engine](https://github.com/your-repo)**: A Neo4j-powered graph database project for personalized recipe suggestions.
-- **[Lead Analytics for E-Learning](https://github.com/your-repo)**: Analyzing and visualizing lead demographics and sourcing efficiency for educational platforms.
+### 🚀 **FEATURED PROJECTS**  
+1. **Facial Emotion Detection**  
+   😊 *Built a deep learning-based model to detect emotions from facial expressions*  
+   - **Tech Stack:** Python, OpenCV, Keras, TensorFlow  
+   - **Focus:** Computer Vision, Convolutional Neural Networks (CNNs)  
+   [🔗 View Project](https://github.com/ASVAHINI/Facial-Emotion-Detection)  
+
+2. **YouTube Analysis**  
+   📊 *Analyzed YouTube video data to extract trends and insights*  
+   - **Tech Stack:** Python, BeautifulSoup, Pandas, Seaborn  
+   - **Focus:** Web Scraping, Data Visualization, Trend Analysis  
+   [🔗 View Project](https://github.com/ASVAHINI/Youtube-Analysis)  
+
+3. **Simple Data Pipeline**  
+   🔄 *Built a local data pipeline to process and transform structured data*  
+   - **Tech Stack:** Python, Pandas, CSV, SQLite  
+   - **Focus:** Data Extraction, Transformation, and Loading (ETL), Local File System  
+   [🔗 View Project](https://github.com/ASVAHINI/simple-data-pipeline)
+
+4. **IPL Match Prediction**  
+   🏏 *Predicting IPL match outcomes using machine learning models*  
+   - **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib  
+   - **Focus:** Data Preprocessing, Model Building, Classification  
+   [🔗 View Project](https://github.com/ASVAHINI/IPL-Match-Prediction)   
 
 ---
 
