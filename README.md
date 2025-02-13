@@ -33,7 +33,7 @@ I am passionate about building scalable data solutions, exploring cloud technolo
 ---
 
 ### 📫 **Let's Connect!**
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/asvahini-s-61615b236/)
 - [Portfolio](https://your-portfolio.com)
 - [Email](mailto:asvahinis@gmail.com)
 
