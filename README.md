@@ -26,19 +26,19 @@ I am passionate about building scalable data solutions, exploring cloud technolo
    📊 *Analyzed YouTube video data to extract trends and insights*  
    - **Tech Stack:** Python, BeautifulSoup, Pandas, Seaborn  
    - **Focus:** Web Scraping, Data Visualization, Trend Analysis  
-   [🔗 View Project](https://github.com/ASVAHINI/Youtube-Analysis)  
+   [🔗 View Project](https://github.com/ASVAHINI/Youtube-Analaysis)  
 
 3. **Simple Data Pipeline**  
    🔄 *Built a local data pipeline to process and transform structured data*  
    - **Tech Stack:** Python, Pandas, CSV, SQLite  
    - **Focus:** Data Extraction, Transformation, and Loading (ETL), Local File System  
-   [🔗 View Project](https://github.com/ASVAHINI/simple-data-pipeline)
+   [🔗 View Project](https://github.com/ASVAHINI/data-pipeline)
 
 4. **IPL Match Prediction**  
    🏏 *Predicting IPL match outcomes using machine learning models*  
    - **Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib  
    - **Focus:** Data Preprocessing, Model Building, Classification  
-   [🔗 View Project](https://github.com/ASVAHINI/IPL-Match-Prediction)   
+   [🔗 View Project](https://github.com/ASVAHINI/IPL-MATCH-PREDICATION)   
 
 ---
 
